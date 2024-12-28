@@ -3,7 +3,7 @@
 -Working Directory, Staging Area, Local Repository, Remote Repository
 -etc...
 
-<code>
+,,,html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,4 +16,3 @@
     <p>Vscode에서 Git을 사용하자!!!</p>
 </body>
 </html>
-</code>
